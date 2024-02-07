@@ -3,11 +3,11 @@ I am a Full Stack engineer currently living in New York City. Recent graduate of
 
 
   <div align="center">
-  <a href="mailto:Jhingoor1945@gmail.com" target="_blank"  rel="noopener noreferrer">
+  <a href="mailto:Jhingoor1945@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/shaun-jhingoor-10a50328a/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/shaun-jhingoor-10a50328a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIN"/>
   </a>
 </div>
