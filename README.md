@@ -21,7 +21,7 @@ I am a Full Stack engineer currently living in New York City. Recent graduate of
 ### My Activities 💻
  <div align="center">
 <a href="https://github.com/ShaunJhingoor">
-  <img  alt="Pepyn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunJhingoor&theme=midnight-blue&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <img  alt="Pepyn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunJhingoor&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true&count_private=false" />
 </a>
 </div>
   
