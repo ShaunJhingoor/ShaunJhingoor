@@ -31,9 +31,23 @@
 </div>
 
 ### Currently Learning 🔧
-- Docker
-- Socker.io
-- Playwright
+<div align="center">
+
+![-----------------------------------------------------](https://progress-bar.dev/40) 
+ <br/>
+ &nbsp;Docker
+   <br/>
+    <br/>
+![-----------------------------------------------------](https://progress-bar.dev/20) 
+ <br/>
+&nbsp;Socket.io
+    <br/>
+    <br/>
+![-----------------------------------------------------](https://progress-bar.dev/5) 
+ <br/>
+&nbsp;Playwright
+
+</div>
 
 ### Some of my Favorite Books 📚
 
