@@ -43,9 +43,7 @@
 &nbsp;Socket.io
     <br/>
     <br/>
-![-----------------------------------------------------](https://progress-bar.dev/10) 
- <br/>
-&nbsp;Playwright
+
 
 </div>
 
