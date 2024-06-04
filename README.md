@@ -33,7 +33,7 @@
 ### Currently Learning 🔧
 <div align="center">
 
-![-----------------------------------------------------](https://progress-bar.dev/43) 
+![-----------------------------------------------------](https://progress-bar.dev/45) 
  <br/>
  &nbsp;Docker
    <br/>
@@ -42,6 +42,11 @@
  <br/>
 &nbsp;Socket.io
     <br/>
+    <br/>
+  ![-----------------------------------------------------](https://progress-bar.dev/5) 
+ <br/>
+&nbsp;Python
+ <br/>
     <br/>
 
 
