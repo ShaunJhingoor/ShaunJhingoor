@@ -33,13 +33,9 @@
 ### Currently Learning 🔧
 <div align="center">
 
-![-----------------------------------------------------](https://progress-bar.dev/45) 
- <br/>
  &nbsp;Docker
    <br/>
     <br/>
-![-----------------------------------------------------](https://progress-bar.dev/30) 
- <br/>
 &nbsp;Socket.io
  <br/>
     <br/>
