@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Shaun Jhingoor
-**I am a Full Stack engineer currently living in New York City. Graduate of App Academy, and currently looking to learn and implement my skills in a new job.**
+**Full Stack Engineer based in Richmond, VA. Passionate about Web3, AI, and building products that bridge innovation with real-world impact.**
 
 
   <div align="center">
@@ -36,7 +36,7 @@
 
 <u> **Docker** </u>
 
-🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
 
 
 </div>
