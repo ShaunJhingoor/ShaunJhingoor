@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shaun Jhingoor
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I’m Shaun Jhingoor
 **Full Stack Engineer based in Richmond, VA. Passionate about Web3, AI, and building products that bridge innovation with real-world impact.**
 
 
