@@ -132,8 +132,8 @@ Building products that bridge innovation with real-world impact.
       <sub><b>FastAPI</b></sub>
     </td>
     <td align="center" width="90">
-      <img src="https://github-shaun-md.s3.us-west-2.amazonaws.com/rails.png" alt="Rails"
-        style="height:40px; width:auto; max-width:45px;" />
+      <img src="https://github-shaun-md.s3.us-west-2.amazonaws.com/rails40.png" alt="Rails"
+        style="height:50px; width:auto; max-width:50px;" />
       <br />
       <sub><b>Rails</b></sub>
     </td>
