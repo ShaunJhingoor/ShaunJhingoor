@@ -49,5 +49,10 @@
 - The Pluto Files by Neil deGrasse Tyson
 - Ender's Game by Orson Scott Card
 
+---
+
+<p align="center">Thanks for visiting! ⚡</p>
+
+
 
 
