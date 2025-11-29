@@ -226,13 +226,13 @@
       <img src="https://github-shaun-md.s3.us-west-2.amazonaws.com/GCP1.png" alt="GCP"
         style="height:40px; width:auto; max-width:40px;" /> 
       <br />
-      <sub><b>Google Cloud</b></sub>
+      <sub><b>GCP</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://github-shaun-md.s3.us-west-2.amazonaws.com/Lambda.png" alt="AWS Lambda"
         style="height:40px; width:auto; max-width:40px;" /> 
       <br />
-      <sub><b>AWS Lambda</b></sub>
+      <sub><b>Lambda</b></sub>
     </td>
     <td align="center" width="90">
       <img src="https://github-shaun-md.s3.us-west-2.amazonaws.com/docker.png" alt="Docker"
@@ -274,12 +274,7 @@
       <br />
       <sub><b>Stripe</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://github-shaun-md.s3.us-west-2.amazonaws.com/pinata.png" alt="Pinata"
-        style="height:40px; width:auto; max-width:40px;" /> 
-      <br />
-      <sub><b>Pinata</b></sub>
-    </td>
+ <td></td>
   </tr>
 
   <!-- Row 9: Web3 -->
@@ -296,7 +291,12 @@
       <br />
       <sub><b>Ethers</b></sub>
     </td>
-    <td></td>
+        <td align="center" width="90">
+      <img src="https://github-shaun-md.s3.us-west-2.amazonaws.com/pinata.png" alt="Pinata"
+        style="height:40px; width:auto; max-width:40px;" /> 
+      <br />
+      <sub><b>Pinata</b></sub>
+    </td>
     <td></td>
     <td></td>
   </tr>
