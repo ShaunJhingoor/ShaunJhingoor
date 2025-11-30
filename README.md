@@ -31,13 +31,22 @@ Building products that bridge innovation with real-world impact.
 ### 💻 &nbsp;My Activities
 
 <br>
- <div align="center">
-<a href="https://github.com/ShaunJhingoor">
-  <img  alt="Pepyn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunJhingoor&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-</a>
-   
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunJhingoor&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true&count_private=true"
+        />
+      </td>
+      <td>
+        <img
+          src="https://streak-stats.demolab.com?user=ShaunJhingoor&theme=tokyonight&hide_border=true&background=0D1117"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
-
 <br>
 
 
@@ -372,8 +381,6 @@ Building products that bridge innovation with real-world impact.
 <br>
 <div align="center">
 
-<blockquote>
-
 🧠 <strong>The Picture of Dorian Gray</strong><br/>
 <em>Oscar Wilde</em><br/><br/>
 
@@ -389,7 +396,6 @@ Building products that bridge innovation with real-world impact.
 🚀 <strong>Ender's Game</strong><br/>
 <em>Orson Scott Card</em>
 
-</blockquote>
 
 </div>
 
