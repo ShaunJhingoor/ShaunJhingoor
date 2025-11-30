@@ -14,26 +14,28 @@
 <p align="center">
 Building products that bridge innovation with real-world impact.
 </p>
+<br>
+<div align="center">
 
-  <div align="center">
-  <a href="mailto:Jhingoor1945@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="mailto:Jhingoor1945@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EB4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="https://shaun-jhingoor-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/shaun-jhingoor-10a50328a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIN"/>
-  </a>
+<a href="https://shaun-jhingoor-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/shaun-jhingoor-10a50328a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
+
 
   
 ### 💻 &nbsp;My Activities
 
-
+<br>
  <div align="center">
 <a href="https://github.com/ShaunJhingoor">
   <img  alt="Pepyn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunJhingoor&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
@@ -41,11 +43,12 @@ Building products that bridge innovation with real-world impact.
    
 </div>
 
-
+<br>
 
 
   
 ### ⚙️ &nbsp;Tech Stack 
+<br>
 <div align="center">
 <table > 
   <!-- Row 1: Frontend -->
@@ -321,7 +324,7 @@ Building products that bridge innovation with real-world impact.
 </table>
 </div>
 
-
+<br>
 
 <!-- <div align="center">
 
@@ -332,18 +335,36 @@ Building products that bridge innovation with real-world impact.
 
 </div> -->
 
-### 📖 &nbsp;Some of my Favorite Books
+### 📚 &nbsp;Some of my Favorite Books
+<br>
+<div align="center">
 
-- *The Picture of Dorian Gray* — Oscar Wilde  
-- *Freak the Mighty* — Rodman Philbrick  
-- *The Girl on the Train* — Paula Hawkins  
-- *The Pluto Files* — Neil deGrasse Tyson  
-- *Ender's Game* — Orson Scott Card  
+<blockquote>
 
+🧠 <strong>The Picture of Dorian Gray</strong><br/>
+<em>Oscar Wilde</em><br/><br/>
+
+💛 <strong>Freak the Mighty</strong><br/>
+<em>Rodman Philbrick</em><br/><br/>
+
+🚆 <strong>The Girl on the Train</strong><br/>
+<em>Paula Hawkins</em><br/><br/>
+
+🌌 <strong>The Pluto Files</strong><br/>
+<em>Neil deGrasse Tyson</em><br/><br/>
+
+🚀 <strong>Ender's Game</strong><br/>
+<em>Orson Scott Card</em>
+
+</blockquote>
+
+</div>
+
+
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
-
 <p align="center">Thanks for visiting! ⚡</p>
 
 
