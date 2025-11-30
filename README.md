@@ -1,11 +1,6 @@
 <div align="center">
 
-<div align="center">
-
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" /> Hi, I’m Shaun Jhingoor 
-
-</div>
-
 
 **Full Stack Engineer • Web3 & AI Builder • Richmond, VA**
 
@@ -51,6 +46,11 @@ Building products that bridge innovation with real-world impact.
 <br>
 <div align="center">
 <table > 
+  <tr>
+  <td colspan="5" align="center">
+    <strong>Frontend</strong>
+  </td>
+</tr>
   <!-- Row 1: Frontend -->
   <tr>
     <td align="center" width="90">
@@ -84,6 +84,11 @@ Building products that bridge innovation with real-world impact.
       <sub><b>Redux</b></sub>
     </td>
   </tr>
+<tr>
+  <td colspan="5" align="center">
+    <strong>Languages</strong>
+  </td>
+</tr>
 
   <!-- Row 2: Languages -->
   <tr>
@@ -113,6 +118,11 @@ Building products that bridge innovation with real-world impact.
     </td>
     <td></td>
   </tr>
+  <tr>
+  <td colspan="5" align="center">
+    <strong>Backend Frameworks</strong>
+  </td>
+</tr>
 
   <!-- Row 3: Backend Frameworks -->
   <tr>
@@ -142,6 +152,11 @@ Building products that bridge innovation with real-world impact.
     </td>
     <td></td>
   </tr>
+  <tr>
+  <td colspan="5" align="center">
+    <strong>Databases & ORMs</strong>
+  </td>
+</tr>
 
   <!-- Row 4: Databases & ORMs -->
   <tr>
@@ -200,6 +215,11 @@ Building products that bridge innovation with real-world impact.
     <td></td>
     <td></td>
   </tr>
+<tr>
+  <td colspan="5" align="center">
+    <strong>AI / ML</strong>
+  </td>
+</tr>
 
   <!-- Row 6: AI / ML -->
   <tr>
@@ -234,6 +254,11 @@ Building products that bridge innovation with real-world impact.
       <sub><b>Hugging Face</b></sub>
     </td>
   </tr>
+  <tr>
+  <td colspan="5" align="center">
+    <strong>Cloud & Tooling</strong>
+  </td>
+</tr>
 
   <!-- Row 7: Cloud & Tooling -->
   <tr>
@@ -268,7 +293,11 @@ Building products that bridge innovation with real-world impact.
       <sub><b>Webpack</b></sub>
     </td>
   </tr>
-
+    <tr>
+  <td colspan="5" align="center">
+    <strong>Testing & Tooling</strong>
+  </td>
+</tr>
   <!-- Row 8: Tooling / Testing / Web3 -->
   <tr>
     <td align="center" width="90">
@@ -297,7 +326,11 @@ Building products that bridge innovation with real-world impact.
     </td>
  <td></td>
   </tr>
-
+    <tr>
+  <td colspan="5" align="center">
+    <strong>Web3</strong>
+  </td>
+</tr>
   <!-- Row 9: Web3 -->
   <tr>
     <td align="center" width="90" >
@@ -365,8 +398,4 @@ Building products that bridge innovation with real-world impact.
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
-<p align="center">Thanks for visiting! ⚡</p>
-
-
-
-
+<p align="center"><strong>Build boldly. Stay curious. ⚡</strong></p>
