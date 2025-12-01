@@ -40,9 +40,9 @@ Building products that bridge innovation with real-world impact.
         />
       </td>
       <td>
-        <img
-          src="https://streak-stats.demolab.com?user=ShaunJhingoor&theme=tokyonight&hide_border=true&background=0D1117"
-        />
+               <img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=ShaunJhingoor&theme=tokyonight&hide_border=true&background=0D1117"
+/>
       </td>
     </tr>
   </table>
