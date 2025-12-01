@@ -76,7 +76,7 @@ Building products that bridge innovation with real-world impact.
     </td>
     <td align="center" width="90">
       <img src="https://github-shaun-md.s3.us-west-2.amazonaws.com/Tailwind.png" alt="Tailwind CSS"
-        style="height:40px; width:auto; max-width:40px;" />
+        style="height:30px; width:auto; max-width:30px;" />
       <br />
       <sub><b>Tailwind</b></sub>
     </td>
