@@ -41,7 +41,7 @@ Building products that bridge innovation with real-world impact.
       </td>
       <td>
                <img
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=ShaunJhingoor&theme=tokyonight&hide_border=true&background=0D1117"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=ShaunJhingoor&theme=tokyonight&hide_border=true&background=0D1117&exclude_days=Sun,Sat"
 />
       </td>
     </tr>
