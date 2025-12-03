@@ -35,9 +35,9 @@ Building products that bridge innovation with real-world impact.
   <table>
     <tr>
       <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunJhingoor&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true&count_private=true"
-        />
+<img
+  src="https://github-readme-stats-mine-bice.vercel.app/api/top-langs/?username=ShaunJhingoor&theme=tokyonight&layout=compact&bg_color=0D1117&hide_border=true&count_private=true&v=1"
+/>
       </td>
       <td>
                <img
