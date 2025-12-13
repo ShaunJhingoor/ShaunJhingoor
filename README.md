@@ -264,6 +264,23 @@ Building products that bridge innovation with real-world impact.
     </td>
   </tr>
   <tr>
+      <tr>
+    <td align="center" width="90">
+      <img src="https://github-shaun-md.s3.us-west-2.amazonaws.com/tensorflow.png" alt="TensorFlow"
+        style="height:40px; width:auto; max-width:40px;" /> 
+      <br />
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+  </tr>
+  <tr>
   <td colspan="5" align="center">
     <strong>Cloud & Tooling</strong>
   </td>
